@@ -1,5 +1,6 @@
 # 🕵️ CrimeVision — Intelligent Cloud-Based Criminal Identification System
 
+<!-- Done by Lokeswaran S-->
 [![Python Version](https://img.shields.io/badge/Python-3.9%2B-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![AWS Rekognition](https://img.shields.io/badge/AWS-Amazon%20Rekognition-FF9900.svg?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/rekognition/)
 [![AWS S3](https://img.shields.io/badge/AWS-Amazon%20S3-569A31.svg?logo=amazon-s3&logoColor=white)](https://aws.amazon.com/s3/)
@@ -253,4 +254,3 @@ This project is licensed under the [MIT License](LICENSE) — see the LICENSE fi
 
 ---
 
-*Developed with ❤️ by Dhanush k & contributors.*
